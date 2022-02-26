@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/trendtrading/',
+    base: '/',
     dest: 'dist',
     title: '交易',
     description: '交易',
